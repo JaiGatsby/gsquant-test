@@ -1,0 +1,6 @@
+gs-quant==0.8.268
+jupyter==1.0.0
+jupyter-client==4.4.0
+jupyter-console==5.0.0
+jupyter-core==4.2.1
+notebook==4.3.1
